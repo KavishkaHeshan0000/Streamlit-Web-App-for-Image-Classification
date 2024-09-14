@@ -14,7 +14,7 @@ This is a Streamlit-based web application that uses a pre-trained MobileNetV2 mo
 
 ### Streamlit App
 
-You can access the live Streamlit app [here](https://your-streamlit-app-link). 
+You can access the live Streamlit app 👉[here](https://your-streamlit-app-link)👈. 
 
 ### Local Setup
 
