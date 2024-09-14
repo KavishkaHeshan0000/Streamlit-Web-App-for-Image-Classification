@@ -23,8 +23,8 @@ To run the app locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/KavishkaHeshan0000/Image_Classification_WebApp.git
-    cd Image_Classification_WebApp
+    git clone https://github.com/KavishkaHeshan0000/Streamlit-Web-App-for-Image-Classification.git
+    cd Streamlit-Web-App-for-Image-Classification
     ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
